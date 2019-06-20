@@ -44,13 +44,13 @@ def add_s(words)
   end 
 end 
 =======
-# def swap_elements(array)
+def swap_elements(array)
   
-#   array.collect 
-#   array[1], array[2] = array[2], array[1]
+  array.collect 
+  array[1], array[2] = array[2], array[1]
   
   
-# end 
+end 
 
 def reverse_array(numbers)
   numbers.reverse
